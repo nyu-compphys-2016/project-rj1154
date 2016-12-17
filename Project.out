@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Einstein equation in spherically symmetric spacetime}{}% 2
+\BOOKMARK [1][-]{section.3}{Numerical aspects}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Mass coordinate}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Finite radius vs redefining coordinate }{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Initial conditions}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Why flux conservation?}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.5}{Metric components integration}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.6}{Time integration}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.7}{Testing the code}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.8}{Search for black holes}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Results}{}% 12
+\BOOKMARK [2][-]{subsection.4.1}{The evolution of scalar field}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.2}{The evolution of the metric}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.3}{-freezing}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.4}{Critical phenomenon in collapse}{section.4}% 16
+\BOOKMARK [1][-]{section.5}{Discussion and outlook}{}% 17
